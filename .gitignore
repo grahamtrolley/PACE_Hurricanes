@@ -1,2 +1,5 @@
 # Ignore local data storage
 /local/
+
+# Mac OSX
+.DS_Store 
